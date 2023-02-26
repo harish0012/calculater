@@ -1,0 +1,22 @@
+#full{
+    background-color: yellow;
+    align-content: center;
+    display: flex;
+    justify-content: center;
+    height: 100%;
+}
+
+table{
+    height: 450px;
+    width: 450px;
+}
+
+#total{
+    height: 100%;
+    width: 99%;
+}
+button{
+    height: 100%;
+    width: 99%;
+    overflow: hidden;
+}
